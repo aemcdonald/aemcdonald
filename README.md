@@ -15,4 +15,4 @@
     <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black"/>
   </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aemcdonald&show_icons=true&theme=nord"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aemcdonald&show_icons=true&count_private=true&theme=nord"</p>
